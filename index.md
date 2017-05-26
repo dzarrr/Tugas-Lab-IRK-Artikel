@@ -7,13 +7,3 @@
 
 ## Berasumsi Bahwa Korelasi =  Sebab akibat
   Korelasi antara dua variabel bukan berarti bahwa satu variabel mengakibatkan terjadinya variabel yang lain, terlebih apabila statistik korelasi merupakan satu-satunya data yang digunakan dalam analisis data. Kasus nyata dari hal ini adalah penelitian dari Missouri University of Technology yang menyebutkan bahwa kegiatan tertentu dalam mengakses internet berkolerasi dengan depresi. Pengguna internet yang sedang depresi akan sering mengecek e-mail, menonton lebih banyak video, serta sering menggunakan situs untuk berbagi file. Kesimpulan yang terkadang ditarik dari studi ini adalah penggunaan internet berlebih dapat menyebabkan depresi. Tentu saja hal ini tidak dapat serta merta dibuktikan. Apabila tidak ada penjelasan secara langsung mengapa suatu hal dapat menyebabkan hal yang lain, studi lebih lanjut tentunya diperlukan agar tidak gegabah dalam menarik kesimpulan
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dzarrr/Tugas-Lab-IRK-Artikel/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
