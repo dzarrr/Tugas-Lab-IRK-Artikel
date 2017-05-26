@@ -1,30 +1,12 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/dzarrr/Tugas-Lab-IRK-Artikel/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Kesalahpahaman Mendasar tentang Ilmu Statistika
+  Statistika adalah ilmu yang mempelajari bagaimana merencanakan, mengumpulkan, menganalisis, menginterpretasi, dan mempresentasikan data. Singkatnya, statistika adalah ilmu yang berkenaan dengan data. Dengan meningkatnya kapasitas penyimpanan yang terdapat di komputer, meningkat pula jumlah data yang dapat disimpan. Terkadang kita tidak menyadari, setiap harinya kita menyimpan "jejak" yang berupa data setiap kali kita merambah dunia maya. "Jejak" itu bisa berupa situs favorit, lokasi tempat kita berada (apabila mengaktifkan fitur lokasi di perangkat android), hingga data pribadi yang terkadang kita masukkan untuk mendaftar suatu situs. Dengan meningkatnya jumlah data yang ada, tentu meningkat pula kebutuhan untuk menganalisis data-data tersebut. Ilmu statistika tentunya diperlukan dalam hal ini. Sayangnya terkadang masih jamak ditemukan kesalahpahaman yang berkaitan dengan ilmu ini. Kesalahpahaman tersebut tentunya dapat mengacaukan pemahaman kita tentang suatu data. Berikut ini adalah dua kesalahpahaman tentang ilmu statistika yang sering terjadi
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Base Rate Fallacy
+  Apabila dihadapkan pada informasi umum serta informasi yang sifatnya lebih spesifik, terkadang pikiran kita terfokus pada informasi yang lebih spesifik dan melupakan informasi umum. Contohnya, apabila diberikan suatu informasi sebagai berikut. Suatu kota memiliki penduduk sejumlah satu juta orang. Dari satu juta orang tersebut, seratus orang merupakan teroris dan 999.900 bukan. Dapat disimpulkan peluang seorang penduduk kota tersebut adalah teroris sebesar 0.0001, peluang penduduk kota tersebut bukan teroris adalah 0.9999. Untuk menangkap teroris, pemerintah memasang perangkat pendeteksi di kota tersebut. Perangkat itu memiliki dua kegagalan yang memiliki peluang 1 persen. Kegagalan yang pertama : perangkat mendeteksi teroris, alarm akan berbunyi 99 %, tidak berbunyi 1 %. Kegagalan yang kedua : perangkat mendeteksi teroris, alarm akan tidak berbunyi 99%, berbunyi 1%. Misalkan suatu penduduk membuat alarm tersebut berbunyi, berapa besar peluang penduduk tersebut adalah teroris ? Seseorang yang terjebak dalam base rate fallacy akan menyimpulkan 99 % kemungkinan peluang tersebut adalah teroris. Walaupun terlihat masuk akal, penarikan kesimpulan ini salah. Peluang sesungguhnya mendekati 1 %, bukan 99 %. Hal ini bisa dibuktikan menggunakan teorema bayes.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+## Berasumsi Bahwa Korelasi =  Sebab akibat
+  Korelasi antara dua variabel bukan berarti bahwa satu variabel mengakibatkan terjadinya variabel yang lain, terlebih apabila statistik korelasi merupakan satu-satunya data yang digunakan dalam analisis data. Kasus nyata dari hal ini adalah penelitian dari Missouri University of Technology yang menyebutkan bahwa kegiatan tertentu dalam mengakses internet berkolerasi dengan depresi. Pengguna internet yang sedang depresi akan sering mengecek e-mail, menonton lebih banyak video, serta sering menggunakan situs untuk berbagi file. Kesimpulan yang terkadang ditarik dari studi ini adalah penggunaan internet berlebih dapat menyebabkan depresi. Tentu saja hal ini tidak dapat serta merta dibuktikan. Apabila tidak ada penjelasan secara langsung mengapa suatu hal dapat menyebabkan hal yang lain, studi lebih lanjut tentunya diperlukan agar tidak gegabah dalam menarik kesimpulan
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
